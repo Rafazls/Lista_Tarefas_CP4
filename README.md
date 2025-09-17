@@ -87,6 +87,6 @@ eas build -p android --profile preview
 }
 ```
 
-## 👨‍💻 DEV
+## 👨‍💻 Aluno
 
 Rafael Bezerra - RM557888
